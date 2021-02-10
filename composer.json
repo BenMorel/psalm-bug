@@ -1,0 +1,6 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.10",
+        "vimeo/psalm": "^4.4"
+    }
+}
